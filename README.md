@@ -1,12 +1,21 @@
 # ATM-Management-System
-A semester project completed in Java Programming language
 
+This repository contains an ATM Management System project implemented in Java.
 
-#Instructions
+## Instructions
 
-To run this file simple run the AtmMainDriver file first. No need to download pacakages. The username for both "Admin " & "User" is zahid and password for both is 1234.
+To run the program, follow these steps:
 
-Just simple run the "admin" first ato create the account first and use whatever you want in that.
+1. Run the `AtmMainDriver` file.
+2. No additional packages need to be downloaded.
+3. The username and password for both "Admin" and "User" are as follows:
+   - Username: zahid
+   - Password: 1234
+4. Start by running the "admin" to create an account and set up the system.
+5. Use the "user" account to perform actions such as withdrawing, checking balances, and transferring funds between accounts.
 
-But for "user" you can only withdraw , Check & transfer balance from one account to another.
+Make sure you have Java installed on your system before running the program.
 
+Feel free to explore and utilize the functionalities provided.
+
+> Note: This project is a semester assignment completed in Java during the academic year 2017-2018.
